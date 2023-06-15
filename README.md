@@ -12,6 +12,8 @@ FYI: System was developed based on the system design. (Can i call myself softwar
 
 P.S.: System design was done by my own understanding, if there is a miss or something off please pardon my so-little-knowledge. 
 Im currently still learning and trying to be better everyday by learning from every mistakes i made.
+
+Also, i want to thanks my very cool lecturer [Aryo Pinandito, S.T., M.MT, Ph.D](https://github.com/aryoxp) for teaching me mobile development in this whole semester🤘
 # Use-case diagram
 ![use-case diagram](https://github.com/yasirrhaq/ToDoListApps/assets/41731559/7c2d001b-ebcf-4903-b9de-9569408e8412)
 
